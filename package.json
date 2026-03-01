@@ -28,8 +28,8 @@
   "homepage": "https://github.com/surveyjs/surveyjs-nodejs-postgres#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
-    "express": "^4.16.2",
-    "express-session": "^1.15.6",
+    "express": "^4.22.1",
+    "express-session": "^1.19.0",
     "pg-promise": "^11.6.0"
   }
 }
